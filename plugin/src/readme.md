@@ -1,0 +1,6 @@
+[view](./trash)
+[view](../trash)
+[view](./module)
+[view](../module)
+[view](./plugin/module)
+[view](../plugin/module)
